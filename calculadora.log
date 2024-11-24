@@ -1,0 +1,12 @@
+2024-11-24 14:36:16,871 - INFO - Iniciando calculadora científica
+2024-11-24 14:36:22,042 - INFO - Sumando 5 + 7
+2024-11-24 14:36:22,043 - INFO - Restando 5 - 7
+2024-11-24 14:36:22,043 - INFO - Multiplicando 5 * 7
+2024-11-24 14:36:22,044 - INFO - Dividiendo 5 / 7
+2024-11-24 14:36:22,044 - INFO - Calculando 5 ^ 7
+2024-11-24 14:36:22,044 - INFO - Calculando raíz cuadrada de 5
+2024-11-24 14:36:22,044 - INFO - Calculando logaritmo natural de 5
+2024-11-24 14:36:22,045 - INFO - Calculando logaritmo base 10 de 5
+2024-11-24 14:36:22,045 - INFO - Calculando seno de 5.000000 radianes
+2024-11-24 14:36:22,046 - INFO - Calculando coseno de 5.000000 radianes
+2024-11-24 14:36:22,047 - INFO - Calculando tangente de 5.000000 radianes
